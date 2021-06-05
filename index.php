@@ -1,4 +1,4 @@
-!<!doctype html>
+<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@
     <title>Homeowner Names - Technical Test by Steven Weir</title>
     <link href="dist/app.css" rel="stylesheet">
 </head>
-<body>
+<body  class="p-2">
 <div id="app">
     <div class="container">
         <div class="row">

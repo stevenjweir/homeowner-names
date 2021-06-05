@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/stevenjweir/homeowner-names#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "bootstrap": "^5.0.1",
-    "vue": "^2.6.13"
+    "vue": "^2.6.13",
+    "vue-axios": "^3.2.4"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
