@@ -1,2 +1,3 @@
-# homeowner-names
-Homeowner Names - Technical Test
+# Homeowner Names - Technical Test
+By Steven Weir
+
