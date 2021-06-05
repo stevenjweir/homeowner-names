@@ -24,7 +24,7 @@
                         </div>
                     </div>
                     <div class="card-footer text-muted">
-                        Steven Weir / Street Group 2021
+                        <small>Steven Weir / Street Group 2021</small>
                     </div>
                 </div>
 
